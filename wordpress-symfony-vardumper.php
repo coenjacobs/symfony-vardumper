@@ -8,7 +8,7 @@
  * Version: 1.0.0
  */
 
-include( 'vendor/autoload.php' );
+include( dirname( __FILE__ ) . '/vendor/autoload.php' );
 
 $updatePhp = new WPUpdatePhp( '5.4.0' );
 
