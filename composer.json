@@ -1,0 +1,6 @@
+{
+  "require": {
+    "symfony/var-dumper": "~2.6",
+    "wpupdatephp/wp-update-php": "~1.0"
+  }
+}
